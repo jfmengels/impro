@@ -10,6 +10,8 @@
   "license": "ISC",
   "devDependencies": {
     "ajv": "^5.2.2",
-    "ava": "^0.22.0"
+    "ava": "^0.22.0",
+    "mkdirp": "^0.5.1",
+    "rimraf": "^2.6.1"
   }
 }

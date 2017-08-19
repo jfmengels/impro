@@ -1,11 +1,6 @@
-import fs from 'fs';
-import util from 'util';
 import test from 'ava';
 import Ajv from 'ajv';
-
-const readdir = util.promisify(fs.readdir);
-const readFile = util.promisify(fs.readFile);
-const path = __dirname + '/../jeux';
+import {getAllFiles} from '../lib/files';
 
 const schema = {
   type: 'object',
@@ -25,17 +20,6 @@ const schema = {
       }
     }
   }
-};
-
-const getAllFiles = async () => {
-  const files = await readdir(path);
-  const jsonFiles = files.filter(f => f.endsWith('.json'));
-  return Promise.all(
-    jsonFiles.map(async file => {
-      const content = await readFile(path + '/' + file, 'utf8');
-      return {file, content: JSON.parse(content)};
-    })
-  );
 };
 
 const jsonFiles = getAllFiles();
