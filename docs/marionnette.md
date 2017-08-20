@@ -1,0 +1,18 @@
+# Marionnette
+
+Nombre de joueurs : 2.
+Tags : écoute.
+
+## Description
+
+### Préparation
+
+Un joueur (la marionnette) s'assoit sur une chaise et l'autre (le marionnettiste) se tient debout derrière ou à côté de lui.
+
+### Cours du jeu
+
+Le marionnettiste va attraper des fils imaginaires au-dessus des parties du corps de la marionnette et les déplacer, de façon à contrôler les membres de la marionnette.
+
+La marionnette va suivre, sans anticiper, les mouvements du marionnettiste.
+
+Le marionnettiste n'est pas sensé toucher le corps de la marionnette, lui parler ou lui montrer quoi faire. Lorsqu'il lâche un fil, le membre contrôlé par le fil doit se relâcher comme si plus aucune force ne la tenait. Il peut faire un noeud en l'air pour indiquer que le fil qu'il va lâcher doit rester à l'endroit courant.
