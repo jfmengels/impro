@@ -4,17 +4,27 @@ import {getAllFiles} from '../lib/files';
 
 const schema = {
   type: 'object',
-  required: ['title', 'description', 'tags'],
+  required: ['title', 'participants', 'description', 'tags'],
   additionalProperties: false,
   properties: {
     title: {
       type: 'string'
+    },
+    participants: {
+      type: 'array',
+      items: [
+        {type: 'number'},
+        {oneOf: [{type: 'number'}, {"enum": ["+"]}]}
+      ],
+      additionalItems: false
     },
     description: {
       oneOf: [
         {type: 'string'},
         {
           type: 'array',
+          minItems: 1,
+          uniqueItems: true,
           items: {
             type: 'object',
             required: ['title', 'content'],
