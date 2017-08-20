@@ -1,0 +1,19 @@
+{
+  "title": "Construction de phrase à plusieurs",
+  "participants": [3, "+"],
+  "description": [
+    {
+      "title": "Préparation",
+      "content": "Les joueurs se mettent en cercle."
+    },
+    {
+      "title": "Cours du jeu",
+      "content": "Chaque joueur, dans l'ordre du cercle, va dire un mot, dans le but de construire une phrase."
+    },
+    {
+      "title": "Variantes",
+      "content": "- Si joué devant un public, l'exercice peut être fait en se tenant en ligne face au public, avec les joueurs qui se tiennent par les bras.\n- Le dernier joueur à parler doit finir la phrase."
+    }
+  ],
+  "tags": ["écoute", "construction", "célebrer l'erreur"]
+}
