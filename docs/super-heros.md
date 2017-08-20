@@ -1,0 +1,22 @@
+# Super-héros
+
+Nombre de joueurs : 4 ou plus.
+Tags : présentation, écoute.
+
+## Description
+
+### Préparation
+
+Les joueurs se mettent en cercle. Chacun son tour, chaque joueur va inventer et présenter son nom de super-héros, et une pose de super-héros qui va avec.
+
+Le nom de super-héros est le prénom du joueur, avec un mot, commençant par la même lettre que le prénom, avant ou après le prénom. Exemple: Méga Max, Funny Fred.
+
+La pose doit être statique et assez facile à distinguer de celle des autres.
+
+### Cours du jeu
+
+Un joueur va dire son nom de super-héros en faisant sa pose, puis va dire le nom de super-héros d'un autre et faire sa pose à lui. Ce joueur-là va ensuite continuer la séquence.
+
+### Variantes
+
+- Lorsque le nom de chaque joueur est bien assimilé par tous les joueurs, on peut désigner un joueur en répliquant seulement sa pose.
