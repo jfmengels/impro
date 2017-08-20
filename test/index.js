@@ -34,7 +34,14 @@ const schema = {
                 type: 'string'
               },
               content: {
-                type: 'string'
+                oneOf: [
+                  {type: 'string'},
+                  {
+                    type: 'array',
+                    minItems: 2,
+                    items: {type: 'string'}
+                  }
+                ]
               }
             }
           }

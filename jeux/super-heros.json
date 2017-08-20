@@ -1,10 +1,17 @@
 {
   "title": "Super-héros",
-  "participants": [4, "+"],
+  "participants": [
+    4,
+    "+"
+  ],
   "description": [
     {
       "title": "Préparation",
-      "content": "Les joueurs se mettent en cercle. Chacun son tour, chaque joueur va inventer et présenter son nom de super-héros, et une pose de super-héros qui va avec.\n\nLe nom de super-héros est le prénom du joueur, avec un mot, commençant par la même lettre que le prénom, avant ou après le prénom. Exemple: Méga Max, Funny Fred.\n\nLa pose doit être statique et assez facile à distinguer de celle des autres."
+      "content": [
+        "Les joueurs se mettent en cercle. Chacun son tour, chaque joueur va inventer et présenter son nom de super-héros, et une pose de super-héros qui va avec.",
+        "Le nom de super-héros est le prénom du joueur, avec un mot, commençant par la même lettre que le prénom, avant ou après le prénom. Exemple: Méga Max, Funny Fred.",
+        "La pose doit être statique et assez facile à distinguer de celle des autres."
+      ]
     },
     {
       "title": "Cours du jeu",

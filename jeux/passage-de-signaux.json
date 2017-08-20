@@ -1,6 +1,9 @@
 {
   "title": "Passage de signaux",
-  "participants": [4, "+"],
+  "participants": [
+    4,
+    "+"
+  ],
   "description": [
     {
       "title": "Préparation",
@@ -8,7 +11,10 @@
     },
     {
       "title": "Cours du jeu",
-      "content": "Un joueur va envoyer une impulsion à son voisin en serrant brièvement la main ou en donnant une petite impulsion. Le voisin fait ensuite de même.\n\nLe jeu peut être fait avec les yeux fermés, mais il faudrait un animateur qui vérifie que le signal ne disparaît ou ne se dédouble pas."
+      "content": [
+        "Un joueur va envoyer une impulsion à son voisin en serrant brièvement la main ou en donnant une petite impulsion. Le voisin fait ensuite de même.",
+        "Le jeu peut être fait avec les yeux fermés, mais il faudrait un animateur qui vérifie que le signal ne disparaît ou ne se dédouble pas."
+      ]
     },
     {
       "title": "Variantes",
