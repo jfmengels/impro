@@ -1,9 +1,6 @@
 {
   "title": "Passage d'énergie",
-  "participants": [
-    4,
-    "+"
-  ],
+  "participants": [4, "+"],
   "description": [
     {
       "title": "Préparation",
@@ -18,9 +15,5 @@
       ]
     }
   ],
-  "tags": [
-    "lâcher prise",
-    "écoute",
-    "célebrer l'erreur"
-  ]
+  "tags": ["lâcher prise", "écoute", "célebrer l'erreur"]
 }

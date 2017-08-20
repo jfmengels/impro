@@ -1,9 +1,6 @@
 {
   "title": "Passage de signaux",
-  "participants": [
-    4,
-    "+"
-  ],
+  "participants": [4, "+"],
   "description": [
     {
       "title": "Préparation",
@@ -21,7 +18,5 @@
       "content": "- Un joueur peut choisir de renvoyer l'énergie au voisin qui le lui a donné.\n- Un animateur peut choisir d'envoyer plusieurs au cours du jeu pour que plusieurs signaux se passent en même temps."
     }
   ],
-  "tags": [
-    "écoute"
-  ]
+  "tags": ["écoute"]
 }
