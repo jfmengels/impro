@@ -11,7 +11,25 @@ const schema = {
       type: 'string'
     },
     description: {
-      type: 'string'
+      oneOf: [
+        {type: 'string'},
+        {
+          type: 'array',
+          items: {
+            type: 'object',
+            required: ['title', 'content'],
+            additionalProperties: false,
+            properties: {
+              title: {
+                type: 'string'
+              },
+              content: {
+                type: 'string'
+              }
+            }
+          }
+        }
+      ]
     },
     tags: {
       type: 'array',

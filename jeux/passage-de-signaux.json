@@ -1,5 +1,20 @@
 {
   "title": "Passage de signaux",
-"description": "### Préparation\n\nLes joueurs se mettent en cercle et se tiennent par la main.\n\n### Cours du jeu\n\nUn joueur va envoyer une impulsion à son voisin en serrant brièvement la main ou en donnant une petite impulsion. Le voisin fait ensuite de même.\n\nLe jeu peut être fait avec les yeux fermés, mais il faudrait un animateur qui vérifie que le signal ne disparaît ou ne se dédouble pas.\n\n### Variantes\n\n- Un joueur peut choisir de renvoyer l'énergie au voisin qui le lui a donné.\n- Un animateur peut choisir d'envoyer plusieurs au cours du jeu pour que plusieurs signaux se passent en même temps.",
-  "tags": ["écoute"]
+  "description": [
+    {
+      "title": "Préparation",
+      "content": "Les joueurs se mettent en cercle et se tiennent par la main."
+    },
+    {
+      "title": "Cours du jeu",
+      "content": "Un joueur va envoyer une impulsion à son voisin en serrant brièvement la main ou en donnant une petite impulsion. Le voisin fait ensuite de même.\n\nLe jeu peut être fait avec les yeux fermés, mais il faudrait un animateur qui vérifie que le signal ne disparaît ou ne se dédouble pas."
+    },
+    {
+      "title": "Variantes",
+      "content": "- Un joueur peut choisir de renvoyer l'énergie au voisin qui le lui a donné.\n- Un animateur peut choisir d'envoyer plusieurs au cours du jeu pour que plusieurs signaux se passent en même temps."
+    }
+  ],
+  "tags": [
+    "écoute"
+  ]
 }

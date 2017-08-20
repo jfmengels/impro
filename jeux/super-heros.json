@@ -1,5 +1,21 @@
 {
   "title": "Super-héros",
-  "description": "### Préparation\n\nLes joueurs se mettent en cercle. Chacun son tour, chaque joueur va inventer et présenter son nom de super-héros, et une pose de super-héros qui va avec.\n\nLe nom de super-héros est le prénom du joueur, avec un mot, commençant par la même lettre que le prénom, avant ou après le prénom. Exemple: Méga Max, Funny Fred.\n\nLa pose doit être statique et assez facile à distinguer de celle des autres.\n\n### Cours du jeu\n\nUn joueur va dire son nom de super-héros en faisant sa pose, puis va dire le nom de super-héros d'un autre et faire sa pose à lui. Ce joueur-là va ensuite continuer la séquence.\n\n### Variantes\n\n- Lorsque les noms de chacun sont bien assimilés, on peut désigner un joueur en répliquant seulement sa pose.",
-  "tags": ["présentation", "écoute"]
+  "description": [
+    {
+      "title": "Préparation",
+      "content": "Les joueurs se mettent en cercle. Chacun son tour, chaque joueur va inventer et présenter son nom de super-héros, et une pose de super-héros qui va avec.\n\nLe nom de super-héros est le prénom du joueur, avec un mot, commençant par la même lettre que le prénom, avant ou après le prénom. Exemple: Méga Max, Funny Fred.\n\nLa pose doit être statique et assez facile à distinguer de celle des autres."
+    },
+    {
+      "title": "Cours du jeu",
+      "content": "Un joueur va dire son nom de super-héros en faisant sa pose, puis va dire le nom de super-héros d'un autre et faire sa pose à lui. Ce joueur-là va ensuite continuer la séquence."
+    },
+    {
+      "title": "Variantes",
+      "content": "- Lorsque le nom de chaque joueur est bien assimilé par tous les joueurs, on peut désigner un joueur en répliquant seulement sa pose."
+    }
+  ],
+  "tags": [
+    "présentation",
+    "écoute"
+  ]
 }

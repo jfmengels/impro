@@ -1,5 +1,17 @@
 {
   "title": "Tour de prénoms",
-  "description": "### Préparation\n\nLes joueurs se mettent en cercle.\n\n### Cours du jeu\n\nUn premier joueur indique son prénom. Le joueur à côté va répéter le nom des joueurs précédents, puis indiquer le sien. Et ainsi de suite jusqu'à revenir au premier joueur qui devra répéter le nom de tous les joueurs.",
-  "tags": ["présentation", "mémoire"]
+  "description": [
+    {
+      "title": "Préparation",
+      "content": "Les joueurs se mettent en cercle."
+    },
+    {
+      "title": "Cours du jeu",
+      "content": "Un premier joueur indique son prénom. Le joueur à côté va répéter le nom des joueurs précédents, puis indiquer le sien. Et ainsi de suite jusqu'à revenir au premier joueur qui devra répéter le nom de tous les joueurs."
+    }
+  ],
+  "tags": [
+    "présentation",
+    "mémoire"
+  ]
 }
