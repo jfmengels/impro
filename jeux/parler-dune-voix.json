@@ -1,0 +1,15 @@
+{
+  "title": "Parler d'une même voix",
+  "participants": [4, 6],
+  "description": [
+    {
+      "title": "Préparation",
+      "content": "Les joueurs se positionnent en demi-cercle en se prenant par les bras, face au public. Un joueur supplémentaire peut se mettre devant le public face au groupe."
+    },
+    {
+      "title": "Cours du jeu",
+      "content": "Le joueur face au groupe va discuter avec le groupe. Le groupe devra répondre d'une seule voix, en même temps."
+    }
+  ],
+  "tags": ["écoute"]
+}
