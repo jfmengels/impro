@@ -1,7 +1,5 @@
 # Jeux d'improvisation
 
-Tags: écoute, construction, célebrer l'erreur, lâcher prise, présentation, acceptation, mémoire.
-
 ## Jeux
 
 - [Construction de phrase à plusieurs](./docs/jeux/construction-de-phrase-a-plusieurs.md) (écoute, construction, célebrer l'erreur)
@@ -16,3 +14,13 @@ Tags: écoute, construction, célebrer l'erreur, lâcher prise, présentation, a
 - [Super-héros](./docs/jeux/super-heros.md) (présentation, écoute)
 - [Surenchère d'histoire](./docs/jeux/surenchere-dhistoire.md) (acceptation, construction)
 - [Tour de prénoms](./docs/jeux/tour-de-prenoms.md) (présentation, mémoire)
+
+## Tags
+
+- acceptation : Acceptation des propositions de l'autre
+- célebrer l'erreur : Se tromper souvent et en rigoler
+- construction : Construire des histoires
+- écoute : Écoutez les autres et se rendre disponible aux autres
+- lâcher prise : S'échauffer, se désinhiber et ne pas avoir peur du ridicule
+- mémoire : Mémoriser des informations et les ressortir sur demande
+- présentation : Présentation et/ou mémorisation des noms des joueurs

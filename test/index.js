@@ -1,6 +1,7 @@
 import test from 'ava';
 import Ajv from 'ajv';
 import {getAllFiles} from '../lib/files';
+import tags from '../lib/tags';
 
 const schema = {
   type: 'object',
@@ -51,7 +52,8 @@ const schema = {
     tags: {
       type: 'array',
       items: {
-        type: 'string'
+        type: 'string',
+        enum: Object.keys(tags)
       }
     }
   }
@@ -76,4 +78,14 @@ test('All titles should be unique', async t => {
 
   const titles = (await jsonFiles).map(({content}) => content.title);
   t.is(new Set(titles).size, titles.length, 'There are duplicate titles');
+});
+
+test('All tags should have a description', t => {
+  const nbTags = Object.keys(tags).length;
+  t.plan((nbTags * 2)+ 1);
+  t.not(nbTags, 0);
+  Object.entries(tags).forEach(([key, value]) => {
+    t.is(typeof value, 'string', `Tag ${key}'s value is not a string.`);
+    t.not(value.trim(), '', `Tag ${key}'s value may not be empty.`);
+  });
 });
