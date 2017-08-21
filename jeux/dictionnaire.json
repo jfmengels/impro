@@ -1,0 +1,15 @@
+{
+  "title": "Dictionnaire",
+  "participants": [4],
+  "description": [
+    {
+      "title": "Préparation",
+      "content": "Les joueurs se positionnent en ligne face au public."
+    },
+    {
+      "title": "Cours du jeu",
+      "content": "En partant d'une extremité de la ligne, trois joueurs vont chacun leur tour prononcer une syllabe. Le quatrième répète les syllabes en tant que mot complet, et va donner une définition de ce mot, à la manière d'un dictionnaire."
+    }
+  ],
+  "tags": ["construction"]
+}

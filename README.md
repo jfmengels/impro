@@ -5,6 +5,7 @@ Tags: écoute, construction, célebrer l'erreur, lâcher prise, présentation, a
 ## Jeux
 
 - [Construction de phrase à plusieurs](./docs/construction-de-phrase-a-plusieurs.md) (écoute, construction, célebrer l'erreur)
+- [Dictionnaire](./docs/dictionnaire.md) (construction)
 - [Je suis un arbre](./docs/je-suis-un-arbre.md) (écoute, construction)
 - [Marionnette](./docs/marionnette.md) (écoute)
 - [Miroir](./docs/miroir.md) (écoute)
