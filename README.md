@@ -7,6 +7,7 @@
 - [Je suis un arbre](./docs/jeux/je-suis-un-arbre.md) (écoute, construction)
 - [Marionnette](./docs/jeux/marionnette.md) (écoute)
 - [Miroir](./docs/jeux/miroir.md) (écoute)
+- [Pan](./docs/jeux/pan.md) (reaction, présentation)
 - [Parler d'une même voix](./docs/jeux/parler-dune-voix.md) (écoute)
 - [Passage de signaux](./docs/jeux/passage-de-signaux.md) (écoute)
 - [Passage d'énergie](./docs/jeux/passage-denergie.md) (lâcher prise, écoute, célebrer l'erreur)
@@ -14,12 +15,14 @@
 - [Super-héros](./docs/jeux/super-heros.md) (présentation, écoute)
 - [Surenchère d'histoire](./docs/jeux/surenchere-dhistoire.md) (acceptation, construction)
 - [Tour de prénoms](./docs/jeux/tour-de-prenoms.md) (présentation, mémoire)
+- [Voix du démon](./docs/jeux/voix-du-demon.md) (lâcher prise)
 
 ## Tags
 
 - acceptation : Acceptation des propositions de l'autre
 - célebrer l'erreur : Se tromper souvent et en rigoler
 - construction : Construire des histoires
+- reaction : Réagir rapidement à des propositions
 - écoute : Écoutez les autres et se rendre disponible aux autres
 - lâcher prise : S'échauffer, se désinhiber et ne pas avoir peur du ridicule
 - mémoire : Mémoriser des informations et les ressortir sur demande
