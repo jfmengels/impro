@@ -1,0 +1,15 @@
+{
+  "title": "Non-respect des règles d'improvisation",
+  "participants": [2, 4],
+  "description": [
+    {
+      "title": "Préparation",
+      "content": "On va assigner à chaque joueur une contrainte qui va à l'encontre des règles de l'improvisation, puis ils vont jouer une scène."
+    },
+    {
+      "title": "Exemples de contraintes",
+      "content": "- Acceptation: Le joueur va refuser les propositions qu'on lui fait.\n- Gestion de l'espace: Le joueur va rester au même endroit de la scène.\n- Spécificité : Le joueur va rester vague.\n- Le joueur va tourner le dos au public.\n- Le joueur va surjouer."
+    }
+  ],
+  "tags": ["acceptation"]
+}
