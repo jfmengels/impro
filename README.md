@@ -2,11 +2,13 @@
 
 ## Jeux
 
+- [Carré des émotions](./docs/jeux/carre-des-emotions.md) (émotions)
 - [Construction de phrase à plusieurs](./docs/jeux/construction-de-phrase-a-plusieurs.md) (écoute, construction, célebrer l'erreur)
 - [Dictionnaire](./docs/jeux/dictionnaire.md) (construction)
 - [Je suis un arbre](./docs/jeux/je-suis-un-arbre.md) (écoute, construction)
 - [Marionnette](./docs/jeux/marionnette.md) (écoute)
 - [Miroir](./docs/jeux/miroir.md) (écoute)
+- [Non-respect des règles d'improvisation](./docs/jeux/non-respect-des-regles.md) (acceptation)
 - [Pan](./docs/jeux/pan.md) (reaction, présentation)
 - [Parler d'une même voix](./docs/jeux/parler-dune-voix.md) (écoute)
 - [Passage de signaux](./docs/jeux/passage-de-signaux.md) (écoute)
@@ -22,8 +24,9 @@
 - acceptation : Acceptation des propositions de l'autre
 - célebrer l'erreur : Se tromper souvent et en rigoler
 - construction : Construire des histoires
-- reaction : Réagir rapidement à des propositions
 - écoute : Écoutez les autres et se rendre disponible aux autres
+- émotions : Ressentir des émotions et les jouer
 - lâcher prise : S'échauffer, se désinhiber et ne pas avoir peur du ridicule
 - mémoire : Mémoriser des informations et les ressortir sur demande
 - présentation : Présentation et/ou mémorisation des noms des joueurs
+- reaction : Réagir rapidement à des propositions
