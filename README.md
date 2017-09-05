@@ -18,6 +18,7 @@
 - [Super-héros](./docs/jeux/super-heros.md) (présentation, écoute)
 - [Surenchère d'histoire](./docs/jeux/surenchere-dhistoire.md) (acceptation, construction)
 - [Tour de prénoms](./docs/jeux/tour-de-prenoms.md) (présentation, mémoire)
+- [Triangle amoureux](./docs/jeux/triangle-amoureux.md) ()
 - [Voix du démon](./docs/jeux/voix-du-demon.md) (lâcher prise)
 
 ## Tags
