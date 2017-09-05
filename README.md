@@ -5,6 +5,7 @@
 - [Carré des émotions](./docs/jeux/carre-des-emotions.md) (émotions)
 - [Construction de phrase à plusieurs](./docs/jeux/construction-de-phrase-a-plusieurs.md) (écoute, construction, célebrer l'erreur)
 - [Dictionnaire](./docs/jeux/dictionnaire.md) (construction)
+- [Et en plus](./docs/jeux/et-en-plus.md) (acceptation, construction)
 - [Je suis un arbre](./docs/jeux/je-suis-un-arbre.md) (écoute, construction)
 - [Marionnette](./docs/jeux/marionnette.md) (écoute)
 - [Miroir](./docs/jeux/miroir.md) (écoute)

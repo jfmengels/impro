@@ -1,0 +1,14 @@
+{
+  "title": "Et en plus",
+  "participants": [2],
+  "description": [
+    {
+      "title": "Cours du jeu",
+      "content": [
+        "Les deux joueurs vont se relayer pour raconter une histoire. Ils ne raconteront à chaque fois qu'une seule phrase, contenant un élément qui fait avancer l'histoire.",
+        "Toutes les phrases, excepté la première, doivent commencer par \"Et en plus\"."
+      ]
+    }
+  ],
+  "tags": ["acceptation", "construction"]
+}
