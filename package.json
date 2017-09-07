@@ -4,6 +4,7 @@
   "description": "Jeux d'improvisation",
   "main": "index.js",
   "scripts": {
+    "generate": "node lib/generate-md.js",
     "test": "ava"
   },
   "author": "",
