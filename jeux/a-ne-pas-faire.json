@@ -1,0 +1,18 @@
+{
+  "title": "À ne pas faire",
+  "participants": [2, "+"],
+  "description": [
+    {
+      "title": "Préparation",
+      "content": "Les joueurs se positionnent en cercle, ou en demi-crcle face au public s'il y en a un."
+    },
+    {
+      "title": "Cours du jeu",
+      "content": [
+        "On donne un thème aux joueurs de la forme \"À ne pas faire X\". Exemples : À ne pas faire à un mariage, à ne pas faire sur une aire d'autoroute.",
+        "Chaque joueur va ensuite, lorsqu'il a une idée, s'avancer et proposer une scène de quelques secondes représentant quelque chose respectant le thème. À la fin de la scène il se repositionne dans le cercle."
+      ]
+    }
+  ],
+  "tags": ["imagination", "mémoire"]
+}
